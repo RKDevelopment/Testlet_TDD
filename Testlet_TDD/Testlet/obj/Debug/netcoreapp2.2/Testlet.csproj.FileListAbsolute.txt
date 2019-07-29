@@ -1,0 +1,8 @@
+C:\Projects\Trac\tdd\TestletRandomizer_TDD-master\Testlet\bin\Debug\netcoreapp2.2\Testlet.deps.json
+C:\Projects\Trac\tdd\TestletRandomizer_TDD-master\Testlet\bin\Debug\netcoreapp2.2\Testlet.dll
+C:\Projects\Trac\tdd\TestletRandomizer_TDD-master\Testlet\bin\Debug\netcoreapp2.2\Testlet.pdb
+C:\Projects\Trac\tdd\TestletRandomizer_TDD-master\Testlet\obj\Debug\netcoreapp2.2\Testlet.csproj.CoreCompileInputs.cache
+C:\Projects\Trac\tdd\TestletRandomizer_TDD-master\Testlet\obj\Debug\netcoreapp2.2\Testlet.AssemblyInfoInputs.cache
+C:\Projects\Trac\tdd\TestletRandomizer_TDD-master\Testlet\obj\Debug\netcoreapp2.2\Testlet.AssemblyInfo.cs
+C:\Projects\Trac\tdd\TestletRandomizer_TDD-master\Testlet\obj\Debug\netcoreapp2.2\Testlet.dll
+C:\Projects\Trac\tdd\TestletRandomizer_TDD-master\Testlet\obj\Debug\netcoreapp2.2\Testlet.pdb
